@@ -2,9 +2,21 @@
   <img width="4023" height="997" alt="Captura desde 2026-09-25 13-13-58" src="https://github.com/user-attachments/assets/8dcb27c4-6412-4fcb-972f-1900ef1e04a1" />
 </p>
 
-<h1 align="center">PROGRAMACIÓN DE SERVICIOS Y PROCESOS</h1>
+<div align="center">
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"></a>
+&nbsp;
+<a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
+&nbsp;
+<a href="https://docs.oracle.com/javase/tutorial/essential/concurrency/"><img src="https://img.shields.io/badge/Threads-Concurrencia-blue?style=flat" alt="Threads y Concurrencia"></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Ejercicios-Multihilo-orange?style=flat" alt="Ejercicios Multihilo">
+&nbsp;
+<img src="https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat" alt="En proceso">
+</div>
 
 ---
+
+<h1 align="center">PROGRAMACIÓN DE SERVICIOS Y PROCESOS</h1>
 
 <h2>UT01 - PROGRAMACIÓN CONCURRENTE Y PARALELA</h2>
 
