@@ -1,11 +1,5 @@
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/3e4c9a5d-7604-478c-9a10-f885b82eab55"
-    alt="Programación concurrente y paralela"
-    width="100%"
-    height="300"
-    style="object-fit: cover; object-position: center;"
-  />
+  <img width="4023" height="997" alt="Captura desde 2026-09-25 13-13-58" src="https://github.com/user-attachments/assets/8dcb27c4-6412-4fcb-972f-1900ef1e04a1" />
 </p>
 
 <h1 align="center">PROGRAMACIÓN DE SERVICIOS Y PROCESOS</h1>
